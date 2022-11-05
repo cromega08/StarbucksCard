@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CromegaStudio</string>
+    <string name="bg_description">Background Image</string>
+    <string name="brand">Starbucks</string>
+    <string name="address">2401 Utah Ave S, Seattle, United States</string>
+    <string name="schedule">8:00am - 5:00pm</string>
+</resources>
